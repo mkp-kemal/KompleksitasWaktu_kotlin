@@ -1,3 +1,5 @@
+#Kompleksitas Waktu & Hitung Rata Rata
+
 import kotlin.system.measureTimeMillis
 
 fun hitungRerata(a: IntArray): Double {
